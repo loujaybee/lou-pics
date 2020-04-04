@@ -6,6 +6,7 @@ Just a list of free stock photos
 
 
 ## TODO
+- [ ] Terraform an S3 bucket
 - [ ] Push images to S3
 - [ ] Add lazy / hazy loading
 - [ ] Add to Lambda
